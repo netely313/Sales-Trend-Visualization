@@ -1,10 +1,10 @@
-# Sales Trend Analysis Using PowerBI
+# Sales Trend Analysis Using Power BI
 
 ## 📊 Overview 
 
 This comprehensive analysis addresses a key stakeholder question: **What is the sales trend by month and how does it depend on the sales method, reason, country, and sellers?**
 
-Spreadsheets was utilized as the primary data analytical tool to provide data-driven insights and actionable recommendations.
+Power BI was utilised as the primary data analytical tool to provide data-driven insights and actionable recommendations.
 
 ## 🎯 Research Questions
 
@@ -44,7 +44,7 @@ Based on the analysis findings, we recommend:
 - Lower pricing strategy for online products
 - Product type differences (large/expensive items sold offline vs. small/cheaper items online)
 
-**Action**: Analyze product categories by sales channel to identify pricing optimization opportunities
+**Action**: Analyse product categories by sales channel to identify pricing optimisation opportunities
 
 ### 2. Explore European Market Potential
 **Issue**: Lower sales volume in Europe compared to other regions
@@ -52,12 +52,12 @@ Based on the analysis findings, we recommend:
 **Investigation areas**:
 - Regional staffing levels comparison
 - Market-specific factors affecting sales performance
-- Localization opportunities
+- Localisation opportunities
 
 ## 📈 Results & Visualizations
 
-![alt text](<Снимок экрана (659).png>)
+![alt text](<Sales_Dashboard.png>)
 ---
-![alt text](<Снимок экрана (660).png>)
+![alt text](<Sales_Reasons_and_Performance.png>)
 ---
-![alt text](<Снимок экрана (661).png>)
+![alt text](<Sales_Country.png>)
